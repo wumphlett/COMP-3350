@@ -1,2 +1,3 @@
 # COMP-3350
-Auburn COMP-3350 Programs
+COMP-3350 Assignments  
+Computer Organization and Assembly Language Programming
